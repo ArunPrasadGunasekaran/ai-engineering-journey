@@ -1,0 +1,37 @@
+{
+    "1": {
+        "expense": 3000,
+        "category": "Miscellaneous",
+        "dateandtime": "2026-08-29T11:27:45.702571"
+    },
+    "2": {
+        "expense": 1000,
+        "category": "Petrol",
+        "dateandtime": "2026-08-29T11:28:16.655231"
+    },
+    "3": {
+        "expense": 5000,
+        "category": "Food",
+        "dateandtime": "2026-08-29T11:29:27.934656"
+    },
+    "4": {
+        "expense": 6000,
+        "category": "Shopping",
+        "dateandtime": "2026-08-29T11:30:11.964687"
+    },
+    "5": {
+        "expense": 5000,
+        "category": "Grocery",
+        "dateandtime": "2026-08-29T11:45:20.814613"
+    },
+    "6": {
+        "expense": 3000,
+        "category": "Food",
+        "dateandtime": "2026-08-29T11:46:12.582830"
+    },
+    "7": {
+        "expense": 9000,
+        "category": "Grocery",
+        "dateandtime": "2026-08-29T11:46:29.470059"
+    }
+}

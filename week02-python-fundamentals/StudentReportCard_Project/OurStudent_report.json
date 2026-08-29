@@ -1,0 +1,18 @@
+{
+    "100": {
+        "name": "aravinth",
+        "marks": {
+            "maths": 44,
+            "science": 55,
+            "english": 66
+        }
+    },
+    "101": {
+        "name": "suwathi",
+        "marks": {
+            "maths": 60,
+            "science": 70,
+            "english": 80
+        }
+    }
+}
